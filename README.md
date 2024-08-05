@@ -55,6 +55,6 @@
 如需帮助或有任何疑问，请通过以下方式与我们联系：
 
 - **Email**: support@geezv.com
-- **Discord**: [加入我们的社区](https://discord.gg/your-discord-link)
+- **Telegram**: [加入我们的社区](https://t.me/GeezVoice)
 - **GitHub Issues**: [提交问题](https://github.com/GeezV/Geez-Backend/issues)
 
